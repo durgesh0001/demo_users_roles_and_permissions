@@ -1,0 +1,15 @@
+{
+    "9001" : "Invalid Parameters - Products",
+    "9003" : "Invalid Parameters - Signup",
+    "9004" : "Invalid Parameters - Login",
+    "9005" : "Email already exists",
+    "9006" : "Invalid Email or Password",
+    "2001" : "General error (Add to Cart)",
+    "2002" : "General error (Products)",
+    "2006" : "No roles found",
+    "2007" : "Role already in us",
+    "2008" : "No permission found",
+    "2009" : "Permission already in use",
+    "2010" : "Error during add user permission",
+    "2011" : "Error during add user role"
+}
